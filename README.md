@@ -1,7 +1,7 @@
 # Seminario de Virtualización y Docker: Introducción y Modularización
 
 ## Autor
-**Juan Felipe Sánchez Pérez**
+**Yhonatan Steven Gomez Jimenez**
 
 ## Descripción
 Este seminario aborda el desarrollo y la virtualización de una aplicación web utilizando Spark java. Se cubre la creación de un contenedor Docker para la aplicación, su despliegue local y la carga de la imagen del contenedor a DockerHub para su uso compartido.
